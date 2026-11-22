@@ -60,3 +60,7 @@ See [PROJECT_CHECKLIST.md](PROJECT_CHECKLIST.md) for the M0–M8 engineering che
 
 ## Change control
 Use GitHub Issues for defects/design questions and pull requests for reviewed changes. Store architecture decision records under `docs/architecture/`. Do not close a milestone without linked implementation or verification evidence.
+
+## Learning library
+
+The structured study material lives under [docs/](docs/README.md). Start with the [curated learning resources](docs/learning-resources/README.md), which groups recommended books, official ASIC tool documentation, digital-power white papers and university course material. Track reading in the reading log.
